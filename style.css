@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div {
+  margin-top: 150px;
+  border-radius: 15px;
+  width: 500px;
+  aspect-ratio: 1;
+  background-color: orange;
+}
